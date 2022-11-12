@@ -1,0 +1,55 @@
+/* for responsive min-width 1200px Start here */
+@media (min-width:1200px)
+{
+
+}
+/* for responsive min-width 1440px End here */
+
+/* for media min-width 992px and max-width:1199px start here */
+@media (min-width:992px) and (max-width:1199px)
+{
+
+}
+/* for media min-width 992px and max-width:1199px end here */
+
+/* for media min-width 768px and max-width:991px start here */
+@media (min-width:768px) and (max-width:991px)
+{
+    
+}
+/* for media min-width 768px and max-width:991px end here */
+
+/* for media min-width 540px and max-width:767px start here */
+@media (min-width:540px) and (max-width:767px)
+{
+    
+}
+/* for media min-width 540px and max-width:767px end here */
+
+/* for media min-width 425px and max-width:539px start here */
+@media (min-width:425px) and (max-width:539px)
+{
+    
+}
+/* for media min-width 425px and max-width:539px end here */
+
+/* for media min-width 375px and max-width:424px start here */
+@media (min-width:375px) and (max-width:424px)
+{
+    
+}
+/* for media min-width 375px and max-width:424px end here */
+
+/* for media min-width 320px and max-width:374px start here */
+@media (min-width:320px) and (max-width:374px)
+{
+    
+}
+/* for media min-width 320px and max-width:374px end here */
+
+/* for media max-width:319px start here */
+@media (max-width:319px)
+{
+    
+}
+/* for media max-width:319px end here */

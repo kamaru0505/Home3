@@ -1,0 +1,230 @@
+/*------------------------------------------------
+             custome style css 
+--------------------------------------------------*/
+
+
+.btn-theme1
+{
+    background-color:#c71f41;
+    color:#fff!important;
+    border: 1px solid #c71f41;
+}
+
+.btn-theme2
+{
+    background-color:#fff;
+    color:#c71f41 !important;
+    border: 1px solid #fff;
+}
+
+.bg-maroon
+{
+    background-color:#c71f41 !important;
+}
+
+.bg-light-grey
+{
+    background-color:#e0e0e0!important;
+}
+
+.bg-dark-grey
+{
+    background-color:#d0d0d0!important;
+}
+
+.text-light-grey
+{
+    color: #a7a7a7!important;
+}
+
+.text-dark-grey
+{
+    color:#d0d0d0!important;
+}
+
+.text-dark-green
+{
+    color: #062c25!important;
+}
+
+.text-maroon
+{
+    color:#c71f41 !important;
+}
+
+.sub-header-section .active
+{
+    background-color: black;
+}
+
+.sub-header-section ul li
+{
+    padding: 10px 5px;
+    font-size: 12px;
+}
+
+.sub-header-section .navbar-toggler
+{
+    padding: 10px 5px;
+    font-size: 12px;
+}
+
+.carousel-header h1
+{
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.carousel-header .carousel-indicators li
+{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 3px solid transparent;
+}
+
+.carousel-header .carousel-indicators .active 
+{
+    border: 3px solid #c71f41;
+}
+
+.services h1
+{
+    letter-spacing: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.latest-news h1
+{
+    letter-spacing: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.hero
+{
+    border: 1px solid black;
+    padding: 4rem 1.5rem;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.hero p
+{
+    line-height: 2;
+}
+
+.about-us h1
+{
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing:5px;
+}
+
+.footer .far
+{
+    font-size: 12px;
+}
+
+.footer ul
+{
+    padding-left: 0;
+}
+
+.footer ul li
+{
+    list-style-type: none;
+    border-bottom: 1px solid #c5c5c5;
+    padding: 5px 0px;
+    font-size: 14px;
+}
+
+.social ul li
+{
+    display: inline-block;
+    margin-right: 15px;
+    padding: 5px 8px!important;
+    background-color: white;
+    border-radius: 50%;
+} 
+
+.social ul 
+{
+    margin-bottom: 0!important;
+}
+
+.footer a
+{
+    color:#7a7a7a!important;
+    text-decoration:none;
+}
+.footer :hover
+{
+    color:#000000!important;
+    text-decoration:none;
+}
+
+.copyright p
+{
+    margin-top: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+@media (min-width:992px)
+{
+    .header-section .navbar
+    {
+        margin:0 3rem;
+    }
+}
+@media (max-width:991px)
+{
+    .service-img
+    {
+        width: 160px;
+    }
+    .service-icon-img
+    {
+        align-self: center;
+    }
+    .services .btn
+    {
+        align-self: center;
+    }
+    .card
+    {
+        text-align: center;
+    }
+    .float-dis-md-none
+    {
+        float: none !important;
+    }
+    .text-right-md-none
+    {
+        text-align: inherit !important;
+    }
+    .dis-md-none
+    {
+        display: none !important;
+    }
+}
+
+@media (max-width:424px)
+{
+    .logo
+    {
+        width:150px!important;
+    }
+    .navbar-toggler
+    {
+        font-size: 12px !important;
+    }
+}
+
+/*------------------------------------------------
+             custome style css 
+--------------------------------------------------*/
